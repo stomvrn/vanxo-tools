@@ -29,7 +29,7 @@
 ## Использование
 
 Открой `index.html` в браузере. Всё.  
-Или: `https://<username>.github.io/<repo>/`
+Или: https://stomvrn.github.io/vanxo-tools/
 
 Горячие клавиши: `Ctrl+K` — палитра команд, `1–9` — быстрый переход.
 
